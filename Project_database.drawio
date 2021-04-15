@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T05:07:23.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="RAeNHlafe5B8ILqaenEq" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-15T05:11:44.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ZqWgGAdv50NPjEUITDBZ" version="14.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1242" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,19 +41,19 @@
         <mxCell id="_Yc2YSAm_R70ft2o-H0N-8" value="* venue_ID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_Yc2YSAm_R70ft2o-H0N-10" value="email address" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
+        <mxCell id="_Yc2YSAm_R70ft2o-H0N-12" value="*check-in code" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_Yc2YSAm_R70ft2o-H0N-9" value="venue name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
+        <mxCell id="_Yc2YSAm_R70ft2o-H0N-10" value="email address" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_Yc2YSAm_R70ft2o-H0N-15" value="shop_address" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
+        <mxCell id="_Yc2YSAm_R70ft2o-H0N-9" value="venue name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_Yc2YSAm_R70ft2o-H0N-11" value="passwords" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
+        <mxCell id="_Yc2YSAm_R70ft2o-H0N-15" value="shop_address" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_Yc2YSAm_R70ft2o-H0N-12" value="check-in code" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
+        <mxCell id="_Yc2YSAm_R70ft2o-H0N-11" value="passwords" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_Yc2YSAm_R70ft2o-H0N-13" value="hotspot area" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_Yc2YSAm_R70ft2o-H0N-7" vertex="1">
@@ -368,7 +368,7 @@
         <mxCell id="Tn1eHENGpZ-2e6yi4WYP-81" value="User_history" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="Tn1eHENGpZ-2e6yi4WYP-78">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Tn1eHENGpZ-2e6yi4WYP-82" value="QR_code" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="Tn1eHENGpZ-2e6yi4WYP-78">
+        <mxCell id="Tn1eHENGpZ-2e6yi4WYP-82" value="*check_in_code" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="Tn1eHENGpZ-2e6yi4WYP-78">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
